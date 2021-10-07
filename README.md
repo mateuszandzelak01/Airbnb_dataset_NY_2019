@@ -5,3 +5,4 @@ This dataset describes the listing activity and metrics in NYC, NY for 2019. Fro
 - Reviews
 - District
 
+![Airbnb NY Dashbord](https://github.com/mateuszandzelak01/Airbnb_dataset_NY_2019/blob/main/Airbnb%20dashbord%20NY.jpg)
